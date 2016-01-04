@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+
+@import url("sticky-footer.css");
+
+body > main {
+  padding-top: 80px;
+}
